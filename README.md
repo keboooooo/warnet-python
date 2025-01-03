@@ -15,6 +15,14 @@ Aplikasi ini merupakan aplikasi manajemen billing warnet yang dideploy dalam 2 P
 - Muhammad Iqbal Fikri Fadhlurrahman (23051204171)
 
 
+## Features
+
+- Database disimpan dalam bentuk SQLite untuk mempermudah pengeditan menggunakan *third party program*
+- Isolasi User agar user hanya dapat login dengan PC Type yang sama dengan billingnya
+- Automatic Lock PC Client jika billing sudah habis atau user ingin Stop Sessionnya secara manual
+- Setiap User memiliki username yang unik jadi tidak ada user yang memiliki username yang sama
+
+
 ## Screenshots
 #### Server Side
 
