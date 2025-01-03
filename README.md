@@ -18,6 +18,7 @@ Aplikasi ini merupakan aplikasi manajemen billing warnet yang dideploy dalam 2 P
 ## Features
 
 - Database disimpan dalam bentuk SQLite untuk mempermudah pengeditan menggunakan *third party program*
+- Pada PC Client akan dibuat Config File yang di simpan pada Users Document dan digunakan untuk menyimpan IP Address dan PC Type
 - Isolasi User agar user hanya dapat login dengan PC Type yang sama dengan billingnya
 - Automatic Lock PC Client jika billing sudah habis atau user ingin Stop Sessionnya secara manual
 - Setiap User memiliki username yang unik jadi tidak ada user yang memiliki username yang sama
